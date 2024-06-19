@@ -5,44 +5,37 @@
     <loc>http://localhost:4321/tags/foo/</loc>
     <lastmod>2024-06-18T23:20:50+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/tags/post/</loc>
+    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/post/</loc>
     <lastmod>2024-06-18T23:20:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/rstats/</loc>
+    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
     <lastmod>2024-06-18T23:20:50+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/tags/test/</loc>
+    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/post/2024-06-18-test-post/</loc>
     <lastmod>2024-06-18T23:20:50+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/post/2024-06-18-test-r-post/</loc>
+    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/tags/testing/</loc>
     <lastmod>2024-06-18T23:20:50+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2024-06-15T23:04:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2024-06-15T23:04:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/plot/</loc>
-    <lastmod>2024-06-15T23:04:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/r/</loc>
-    <lastmod>2024-06-15T23:04:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/r-markdown/</loc>
-    <lastmod>2024-06-15T23:04:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/regression/</loc>
-    <lastmod>2024-06-15T23:04:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/2015-01-04-first-post/</loc>
-    <lastmod>2024-06-15T23:04:49+02:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
     <lastmod>2024-06-15T23:04:49+02:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/page/about/</loc>
     <lastmod>2024-06-18T22:47:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/</loc>
   </url><url>
     <loc>http://localhost:4321/page/colophon/</loc>
     <lastmod>2024-06-18T23:20:35+02:00</lastmod>

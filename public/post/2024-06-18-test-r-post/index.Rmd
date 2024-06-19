@@ -13,7 +13,6 @@ image: ''
 This is some plain text.
 
 ```{r create_plot}
-library(ggplot2)
 myplot <- ggplot2::ggplot(
   data = mtcars,
   mapping = ggplot2::aes(

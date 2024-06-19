@@ -18,31 +18,31 @@
       <description></description>
     </item>
     <item>
+      <title>Post</title>
+      <link>http://localhost:4321/tags/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
+      <guid>http://localhost:4321/tags/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rstats</title>
+      <link>http://localhost:4321/tags/rstats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
+      <guid>http://localhost:4321/tags/rstats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:4321/tags/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
+      <guid>http://localhost:4321/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Testing</title>
       <link>http://localhost:4321/tags/testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
       <guid>http://localhost:4321/tags/testing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plot</title>
-      <link>http://localhost:4321/tags/plot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/tags/plot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R Markdown</title>
-      <link>http://localhost:4321/tags/r-markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Regression</title>
-      <link>http://localhost:4321/tags/regression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/tags/regression/</guid>
       <description></description>
     </item>
   </channel>

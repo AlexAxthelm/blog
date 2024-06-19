@@ -274,8 +274,8 @@
 </article>
           
             <article class="post-preview">
-    <a href="http://localhost:4321/post/2020-12-01-r-rmarkdown/">
-        <h2 class="post-title">Hello R Markdown</h2>
+    <a href="http://localhost:4321/post/2024-06-18-test-r-post/">
+        <h2 class="post-title">Test R Post</h2>
         
         
         
@@ -285,20 +285,18 @@
         <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on 2020-12-01
-  
-    &nbsp;(Last modified on 2024-06-15)
+  <i class="fas fa-calendar"></i>&nbsp;Posted on 2024-06-18
   
   
     &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
   
   
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;165&nbsp;words
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;45&nbsp;words
   
   
     
       
-        &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Frida Gomam
+        &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Alex Axthelm
       
     
   
@@ -309,11 +307,28 @@
     </p>
     <div class="post-entry">
         
-        Test post for Alex Axthelm’s blog.
-R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.
-        <a href="http://localhost:4321/post/2020-12-01-r-rmarkdown/" class="post-read-more">[Read More]</a>
+        
+
+
+<p>This is some plain text.</p>
+<pre class="r"><code>library(ggplot2)
+myplot &lt;- ggplot2::ggplot(
+  data = mtcars,
+  mapping = ggplot2::aes(
+    x = wt,
+    y = mpg,
+    color = factor(cyl)
+  )
+) +
+  ggplot2::geom_point() +
+  ggplot2::theme_minimal() +
+  ggplot2::labs(
+    title = &quot;A scatterplot of mtcars&quot;,
+    subtitle = &quot;Look, plotting works!&quot;
+  )</code></pre>
+<pre class="r"><code>myplot</code></pre>
+<p><img src="/post/2024-06-18-test-r-post/index_files/figure-html/show_plot-1.png" width="672" /></p>
+
         
     </div>
 
@@ -321,58 +336,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     <div class="blog-tags">
         
        
-       <a href="http://localhost:4321/tags/r-markdown/">R Markdown</a>&nbsp;
+       <a href="http://localhost:4321/tags/rstats/">Rstats</a>&nbsp;
         
        
-       <a href="http://localhost:4321/tags/plot/">plot</a>&nbsp;
+       <a href="http://localhost:4321/tags/test/">test</a>&nbsp;
         
        
-       <a href="http://localhost:4321/tags/regression/">regression</a>&nbsp;
+       <a href="http://localhost:4321/tags/post/">post</a>&nbsp;
          
     </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="http://localhost:4321/post/2015-01-04-first-post/">
-        <h2 class="post-title">First post!</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on 2015-01-05
-  
-    &nbsp;(Last modified on 2024-06-15)
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;7&nbsp;words
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Alex Axthelm
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        <p>This is my first post, how exciting!</p>
-
-        
-    </div>
-
     
 
 </article>
