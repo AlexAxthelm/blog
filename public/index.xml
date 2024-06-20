@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Naming things is hard</title>
-    <link>http://localhost:4321/</link>
+    <link>https://alexaxthelm.github.io/</link>
     <description>Recent content on Naming things is hard</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>contact@alexaxthelm.com (Alex Axthelm)</managingEditor>
     <webMaster>contact@alexaxthelm.com (Alex Axthelm)</webMaster>
-    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alexaxthelm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
-      <link>http://localhost:4321/post/2024-06-18-test-post/</link>
+      <link>https://alexaxthelm.github.io/post/2024-06-18-test-post/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/post/2024-06-18-test-post/</guid>
+      <guid>https://alexaxthelm.github.io/post/2024-06-18-test-post/</guid>
       <description>This is a test post of a markdown document.&#xA;&amp;ndash;Alex</description>
     </item>
     <item>
       <title>Test R Post</title>
-      <link>http://localhost:4321/post/2024-06-18-test-r-post/</link>
+      <link>https://alexaxthelm.github.io/post/2024-06-18-test-r-post/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/post/2024-06-18-test-r-post/</guid>
+      <guid>https://alexaxthelm.github.io/post/2024-06-18-test-r-post/</guid>
       <description> This is some plain text.&#xA;myplot &amp;lt;- ggplot2::ggplot( data = mtcars, mapping = ggplot2::aes( x = wt, y = mpg, color = factor(cyl) ) ) + ggplot2::geom_point() + ggplot2::theme_minimal() + ggplot2::labs( title = &amp;quot;A scatterplot of mtcars&amp;quot;, subtitle = &amp;quot;Look, plotting works!&amp;quot; ) myplot </description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:4321/page/about/</link>
+      <link>https://alexaxthelm.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/page/about/</guid>
+      <guid>https://alexaxthelm.github.io/page/about/</guid>
       <description>I&amp;rsquo;m Alex Axthelm. this is my space on the internet.&#xA;You can also find me at:&#xA;https://github.com/AlexAxthelm https://fosstodon.org/@AlexAxthelm https://linkedin.com/in/aaxthelm Current Work Professionally, I&amp;rsquo;m a software engineer, with a history of helping small teams move their data science pipelines along the Software Development lifecycle.&#xA;Currently, I do DevOps, System Design, and some data engineering for the PACTA project at RMI. Most of my day is some combination of R, shell programming (generally POSIX compliant), with a bit of SQL thrown in for fun.</description>
     </item>
     <item>
       <title>Colophon</title>
-      <link>http://localhost:4321/page/colophon/</link>
+      <link>https://alexaxthelm.github.io/page/colophon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/page/colophon/</guid>
+      <guid>https://alexaxthelm.github.io/page/colophon/</guid>
       <description>This site is a fairly strightforward blogdown site, with guidance from the essential source: &amp;ldquo;blogdown: Creating Websites with R Markdown&amp;rdquo;&#xA;The source is available on GitHub, and it&amp;rsquo;s hosted on Netlify.&#xA;The theme is Beautiful Hugo.</description>
     </item>
   </channel>

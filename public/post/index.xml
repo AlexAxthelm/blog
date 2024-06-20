@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Naming things is hard</title>
-    <link>http://localhost:4321/post/</link>
+    <link>https://alexaxthelm.github.io/post/</link>
     <description>Recent content in Posts on Naming things is hard</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>contact@alexaxthelm.com (Alex Axthelm)</managingEditor>
     <webMaster>contact@alexaxthelm.com (Alex Axthelm)</webMaster>
-    <lastBuildDate>Tue, 18 Jun 2024 23:20:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jun 2024 22:05:00 +0200</lastBuildDate>
+    <atom:link href="https://alexaxthelm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
-      <link>http://localhost:4321/post/2024-06-18-test-post/</link>
+      <link>https://alexaxthelm.github.io/post/2024-06-18-test-post/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/post/2024-06-18-test-post/</guid>
+      <guid>https://alexaxthelm.github.io/post/2024-06-18-test-post/</guid>
       <description>This is a test post of a markdown document.&#xA;&amp;ndash;Alex</description>
     </item>
     <item>
       <title>Test R Post</title>
-      <link>http://localhost:4321/post/2024-06-18-test-r-post/</link>
+      <link>https://alexaxthelm.github.io/post/2024-06-18-test-r-post/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate><author>contact@alexaxthelm.com (Alex Axthelm)</author>
-      <guid>http://localhost:4321/post/2024-06-18-test-r-post/</guid>
-      <description> This is some plain text.&#xA;library(ggplot2) myplot &amp;lt;- ggplot2::ggplot( data = mtcars, mapping = ggplot2::aes( x = wt, y = mpg, color = factor(cyl) ) ) + ggplot2::geom_point() + ggplot2::theme_minimal() + ggplot2::labs( title = &amp;quot;A scatterplot of mtcars&amp;quot;, subtitle = &amp;quot;Look, plotting works!&amp;quot; ) myplot </description>
+      <guid>https://alexaxthelm.github.io/post/2024-06-18-test-r-post/</guid>
+      <description> This is some plain text.&#xA;myplot &amp;lt;- ggplot2::ggplot( data = mtcars, mapping = ggplot2::aes( x = wt, y = mpg, color = factor(cyl) ) ) + ggplot2::geom_point() + ggplot2::theme_minimal() + ggplot2::labs( title = &amp;quot;A scatterplot of mtcars&amp;quot;, subtitle = &amp;quot;Look, plotting works!&amp;quot; ) myplot </description>
     </item>
   </channel>
 </rss>
