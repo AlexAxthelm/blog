@@ -1,0 +1,31 @@
+---
+title: Test R Post
+author: 'Alex Axthelm'
+date: '2024-06-18'
+slug: []
+categories: []
+tags: [Rstats, test, post]
+type: ''
+subtitle: ''
+image: ''
+---
+
+
+
+<p>This is some plain text.</p>
+<pre class="r"><code>myplot &lt;- ggplot2::ggplot(
+  data = mtcars,
+  mapping = ggplot2::aes(
+    x = wt,
+    y = mpg,
+    color = factor(cyl)
+  )
+) +
+  ggplot2::geom_point() +
+  ggplot2::theme_minimal() +
+  ggplot2::labs(
+    title = &quot;A scatterplot of mtcars&quot;,
+    subtitle = &quot;Look, plotting works!&quot;
+  )</code></pre>
+<pre class="r"><code>myplot</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/show_plot-1.png" width="672" /></p>
